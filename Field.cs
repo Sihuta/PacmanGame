@@ -30,11 +30,6 @@ namespace PacmanGame
         private void DrawPoint(char _ch)
         {
             Console.SetCursorPosition(X, Y);
-
-            if (_ch == 'o')
-            {
-                Console.ForegroundColor = ConsoleColor.Black;
-            }
             if (_ch == '#')
             {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
