@@ -1,0 +1,13 @@
+D:\Универ\Курсовой проект\PacmanGame(2)\bin\Debug\netcoreapp3.1\PacmanGame(2).exe
+D:\Универ\Курсовой проект\PacmanGame(2)\bin\Debug\netcoreapp3.1\PacmanGame(2).deps.json
+D:\Универ\Курсовой проект\PacmanGame(2)\bin\Debug\netcoreapp3.1\PacmanGame(2).runtimeconfig.json
+D:\Универ\Курсовой проект\PacmanGame(2)\bin\Debug\netcoreapp3.1\PacmanGame(2).runtimeconfig.dev.json
+D:\Универ\Курсовой проект\PacmanGame(2)\bin\Debug\netcoreapp3.1\PacmanGame(2).dll
+D:\Универ\Курсовой проект\PacmanGame(2)\bin\Debug\netcoreapp3.1\PacmanGame(2).pdb
+D:\Универ\Курсовой проект\PacmanGame(2)\obj\Debug\netcoreapp3.1\PacmanGame(2).csprojAssemblyReference.cache
+D:\Универ\Курсовой проект\PacmanGame(2)\obj\Debug\netcoreapp3.1\PacmanGame(2).csproj.CoreCompileInputs.cache
+D:\Универ\Курсовой проект\PacmanGame(2)\obj\Debug\netcoreapp3.1\PacmanGame(2).AssemblyInfoInputs.cache
+D:\Универ\Курсовой проект\PacmanGame(2)\obj\Debug\netcoreapp3.1\PacmanGame(2).AssemblyInfo.cs
+D:\Универ\Курсовой проект\PacmanGame(2)\obj\Debug\netcoreapp3.1\PacmanGame(2).dll
+D:\Универ\Курсовой проект\PacmanGame(2)\obj\Debug\netcoreapp3.1\PacmanGame(2).pdb
+D:\Универ\Курсовой проект\PacmanGame(2)\obj\Debug\netcoreapp3.1\PacmanGame(2).genruntimeconfig.cache
