@@ -35,6 +35,8 @@ namespace PacmanGame_2_
             X = 13;
             Y = 13;
             direction = Direction.UP;
+            Lives = 3;
+            Score = 0;
         }
         
         private Direction direction = Direction.UP;
